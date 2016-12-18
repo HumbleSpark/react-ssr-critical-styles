@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git@github.com:humblespark/react-ssr-critical-styles.git"
   },
+  "dependencies": {
+    "clean-css": "^3.4.23"
+  },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0"
   },
@@ -40,8 +43,5 @@
     "style-loader",
     "critical styles",
     "critical css"
-  ],
-  "dependencies": {
-    "clean-css": "^3.4.23"
-  }
+  ]
 }
